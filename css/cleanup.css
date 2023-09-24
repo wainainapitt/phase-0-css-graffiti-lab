@@ -1,2 +1,19 @@
-/* write your override styles here */
-+300
+/* write your override styles here */#wall .parent {
+    display: none;
+}
+
+div#wall #tag-3.slick {
+    display: none;
+}
+
+div#wall #tag-3.slick {
+    background: url(../images/tag-3.png) no-repeat;
+    z-index: 5;
+    display: none;
+}
+
+div#wall #tag-3.slick {
+    background: url(../images/tag-3.png) no-repeat;
+    z-index: 5;
+    display: none;
+}
